@@ -1,6 +1,5 @@
 # Vue.js Tutorial: A Prerendered, SEO-Friendly Example
 
-
 ![vue-snipcart](https://snipcart.com/media/203838/vue-js-seo-prerender-demo-1.jpg)
 
 Here at Snipcart, we love Vue.js, but are entirely aware of the SEO issues with a Vue.js singe-page application.
